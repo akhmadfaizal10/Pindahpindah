@@ -97,3 +97,5 @@ void printBig0(int col) {
   lcd.setCursor(col, 0); lcd.write(5); lcd.write(0); lcd.write(6); // Baris Atas
   lcd.setCursor(col, 1); lcd.write(2); lcd.print(" "); lcd.write(2); // Baris Bawah
 }
+
+https://share.google/gQXuEUGC2WS8SiDPV
